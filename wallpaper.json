@@ -1,66 +1,66 @@
-[		
-		
-	{
-		"name": "Cult TIC Repeat Light",
-		"author": "JKEBWDN",
-		"url": "https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Cult%20TIC%20Repeat%20Light.png?raw=true",
-		"collections": "Logo,Material Design",
-		"downloadable": true,
-		"dimensions": "1440 x 3120 px"
-	},
-	
- 	{
-		"name": "Cult TIC Repeat Dark",
-		"author": "JKEBWDN",
-		"url": "https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Cult%20TIC%20Repeat%20Wallpaper%20Dark.png?raw=true",
-		"collections": "Logo,Material Design",
-		"downloadable": true,
-		"dimensions": "1440 x 3120 px"
-	},
-		
- 	{
-		"name": "Vaporwave Aesthetic MCPBG",
-		"author": "JKEBWDN",
-		"url": "https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Vaporwave%20Aesthetic%20MCPBG.png?raw=true",
-		"collections": "Vaporwave,Material Design",
-		"downloadable": true,
-		"dimensions": "1440 x 3120 px"
-	},
-		
- 	{
- 		"name": "Vaporwave Aesthetic MCWBG",
-		"author": "JKEBWDN",
-		"url": "https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Vaporwave%20Aesthetic%20MCWBG.png?raw=true",
-		"collections": "Vaporwave,Material Design",
-		"downloadable": true,
-		"dimensions": "1440 x 3120 px"
-	},
-			
- 	{	
- 		"name": "Vaporwave Aesthetic Blue",
-		"author": "JKEBWDN",
-		"url": "https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Vaporwave%20Aesthetic%20Blue.png?raw=true",
-		"collections": "Vaporwave,Material Design",
-		"downloadable": true,
-		"dimensions": "1440 x 3120 px"
-	},
-			
- 	{
- 		"name": "Vaporwave Aesthetic Red",
-		"author": "JKEBWDN",
-		"url": "https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Vaporwave%20Aesthetic%20Red.png?raw=true",
-		"collections": "Vaporwave,Material Design",
-		"downloadable": true,
-		"dimensions": "1440 x 3120 px"
-	},
-		
- 	{
-		"name": "Vaporwave Aesthetic Green",
-		"author": "JKEBWDN",
-		"url": "https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Vaporwave%20Aesthetic%20Green.png?raw=true",
-		"collections": "Vaporwave,Material Design",
-		"downloadable": true,
-		"dimensions": "1440 x 3120 px"
-	},
+
+[
+   {
+      "name":"Cult TIC Repeat Light",
+      "author":"JKEBWDN",
+      "url":"https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Cult%20TIC%20Repeat%20Light.png?raw=true",
+      "collections":"Logo,Material Design",
+      "downloadable":true,
+      "dimensions":"1440 x 3120 px"
+   
+},
+   {
+      "name":"Cult TIC Repeat Dark",
+      "author":"JKEBWDN",
+      "url":"https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Cult%20TIC%20Repeat%20Wallpaper%20Dark.png?raw=true",
+      "collections":"Logo,Material Design",
+      "downloadable":true,
+      "dimensions":"1440 x 3120 px"
+   
+},
+   {
+      "name":"Vaporwave Aesthetic MCPBG",
+      "author":"JKEBWDN",
+      "url":"https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Vaporwave%20Aesthetic%20MCPBG.png?raw=true",
+      "collections":"Vaporwave,Material Design",
+      "downloadable":true,
+      "dimensions":"1440 x 3120 px"
+   
+},
+   {
+      "name":"Vaporwave Aesthetic MCWBG",
+      "author":"JKEBWDN",
+      "url":"https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Vaporwave%20Aesthetic%20MCWBG.png?raw=true",
+      "collections":"Vaporwave,Material Design",
+      "downloadable":true,
+      "dimensions":"1440 x 3120 px"
+   
+},
+   {
+      "name":"Vaporwave Aesthetic Blue",
+      "author":"JKEBWDN",
+      "url":"https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Vaporwave%20Aesthetic%20Blue.png?raw=true",
+      "collections":"Vaporwave,Material Design",
+      "downloadable":true,
+      "dimensions":"1440 x 3120 px"
+   
+},
+   {
+      "name":"Vaporwave Aesthetic Red",
+      "author":"JKEBWDN",
+      "url":"https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Vaporwave%20Aesthetic%20Red.png?raw=true",
+      "collections":"Vaporwave,Material Design",
+      "downloadable":true,
+      "dimensions":"1440 x 3120 px"
+   
+},
+   {
+      "name":"Vaporwave Aesthetic Green",
+      "author":"JKEBWDN",
+      "url":"https://github.com/jkebwdn/Fraud-Icon-Pack-Wallpapers/blob/master/Vaporwave%20Aesthetic%20Green.png?raw=true",
+      "collections":"Vaporwave,Material Design",
+      "downloadable":true,
+      "dimensions":"1440 x 3120 px"
+   
+}
 ]
- 
